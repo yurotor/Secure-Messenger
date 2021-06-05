@@ -1,0 +1,9 @@
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\obj\Debug\SecMsg.Common.csprojAssemblyReference.cache
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\obj\Debug\SecMsg.Common.csproj.CoreCompileInputs.cache
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\bin\Debug\SecMsg.Common.dll
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\bin\Debug\SecMsg.Common.pdb
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\obj\Debug\SecMsg.Common.csproj.CopyComplete
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\obj\Debug\SecMsg.Common.dll
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg.Common\obj\Debug\SecMsg.Common.pdb

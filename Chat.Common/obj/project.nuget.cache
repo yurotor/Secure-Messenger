@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1v6e5wlSkHWUZBJNtNYOkB+ta4VhIN04j1ISHBrycndLfoOjWsKWcuiu2fFi67rY2S1N76fdJ5daIiLNtxBx8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UKeselman\\source\\repos\\SecureMessenger\\Chat.Common\\Chat.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UKeselman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\SecMsg.exe.config
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\SecMsg.exe
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\SecMsg.pdb
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\Alchemy.dll
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\SecMsg.Common.dll
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\SecMsg.Common.pdb
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\obj\Debug\SecMsg.csprojAssemblyReference.cache
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\obj\Debug\SecMsg.csproj.CoreCompileInputs.cache
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\obj\Debug\SecMsg.csproj.CopyComplete
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\obj\Debug\SecMsg.exe
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\obj\Debug\SecMsg.pdb
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\websocket-sharp.clone.dll
+C:\Users\UKeselman\source\repos\SecureMessenger\SecMsg\bin\Debug\websocket-sharp.clone.xml
